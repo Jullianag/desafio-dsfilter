@@ -1,0 +1,19 @@
+.dsf-container-listing-card {
+    width: 920px;
+    height: 53px;
+    border-radius: 5px;
+    border: 1px solid var(--desafio-color-bg-primary);
+    padding-left: 10px;
+}
+
+.dsf-product-name {
+    padding-top: 10px;
+    color: var(--desafio-color-font-secondary);
+    font-size: 12px;
+}
+
+.dsf-product-price {
+    color: var(--desafio-color-font-primary);
+    font-size: 16px;
+    font-weight: 700;
+}

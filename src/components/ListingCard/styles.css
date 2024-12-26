@@ -1,0 +1,7 @@
+.dsf-listing-card {
+    width: 960px;
+    height: 408px;
+    border-radius: 5px;
+    background-color: var(--desafio-color-bg-tertiary);
+}
+

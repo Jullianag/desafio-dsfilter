@@ -1,0 +1,20 @@
+.dsf-header {
+    color: var(--desafio-color-font-tertiary);
+    background-color: var(--desafio-color-bg-primary);
+}
+
+.dsf-navbar-right {
+    display: flex;
+    align-items: center;
+}
+
+.dsf-menu-items-container {
+    display: flex;
+}
+
+.dsf-menu-item {
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 700;
+}

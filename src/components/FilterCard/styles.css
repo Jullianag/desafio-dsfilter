@@ -1,0 +1,27 @@
+.dsf-filter-card {
+    width: 960px;
+    height: 200px;
+    border-radius: 5px;
+    background-color: var(--desafio-color-bg-tertiary);
+}
+
+.dsf-filter-card input {
+    width: 200px;
+    height: 40px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid var(--desafio-color-border-primary);
+    color: var(--desafio-color-font-placeholder);
+}
+
+.dsf-filter-card input::placeholder {
+    padding-left: 10px;
+    color: var(--desafio-color-font-placeholder);
+}
+
+.dsf-filter-card input:focus {
+    outline: none;
+}
+
+
+

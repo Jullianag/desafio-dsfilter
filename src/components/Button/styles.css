@@ -1,0 +1,16 @@
+.dsf-button {
+    background-color: var(--desafio-color-btn);
+    color: var(--desafio-color-font-tertiary);
+    cursor: pointer;
+    border-radius: 5px;
+    width: 200px;
+    height: 40px;
+    font-size: 16px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
